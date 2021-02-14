@@ -1,6 +1,6 @@
 # QD
 A basic private chat application  
-<br><br>
+<br>
 
 # Dependencies
 
