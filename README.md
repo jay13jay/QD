@@ -6,7 +6,7 @@ A basic private chat application
 
 ## Redis
 ### Description
-Redis is a document store, described by themselves as "an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker
+Redis is a document store, described by themselves as "an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker"
 
 ### Function
 Redis is the "backend" that holds the chats before they can be sent to individual clients. In my specific implementation, it's being used as a message broker with plans on also leveraging it for caching when that becomes a feature required for performance
